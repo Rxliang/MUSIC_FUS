@@ -4,7 +4,7 @@ Author: Ruixing Liang https://ruixingliang.com/
 
 This is the official repository containing codes to process therapeutic ultrasound experiment output dataset generated from [MUSIC](https://www.hopkinsmedicine.org/neurology-neurosurgery/research/hepius/implantable-ultrasound-sensor) experiment
 
-![](/Users/simon/Desktop/MUSIC_FUS/images/githubver.jpg)
+![](./images/githubver.jpg)
 
 - Root/
   - src/
